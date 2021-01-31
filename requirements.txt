@@ -3,7 +3,7 @@ numpy==1.19.1
 nbdev==1.1.12
 torchvision==0.8.2
 torch==1.4.0
-pandas==1.2.1
+pandas>=1.0.0
 requests==2.25.1
 pytorch_lightning==1.1.6
 pydicom==2.1.2
