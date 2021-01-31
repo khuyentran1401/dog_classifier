@@ -165,7 +165,7 @@ torch==1.7.1
 torchvision==0.8.2
 tornado==6.1
 tqdm==4.56.0
-traitlets==5.0.5
+traitlets>=4.0.0
 transformers==4.2.2
 typing-extensions==3.7.4.3
 tzlocal==2.1
