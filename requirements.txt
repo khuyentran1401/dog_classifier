@@ -79,7 +79,6 @@ msgpack==1.0.2
 multidict==5.1.0
 murmurhash==1.0.5
 nbclient==0.5.1
-nbconvert>=5.0.0
 nbdev==1.1.12
 nbformat==5.1.2
 neptune-client==0.5.0
