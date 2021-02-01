@@ -1,6 +1,6 @@
 # Dog Classifier
 
-This is a simple app to classify dogs using [fastai](https://docs.fast.ai/) and [streamlit](https://www.streamlit.io/). The app is deployed using Heroku. 
+This is a simple app to classify dogs using [fastai](https://docs.fast.ai/) and [streamlit](https://www.streamlit.io/). The app is deployed using Heroku. This project is inspired by Chapter 2 of the book Deep Learning for Coders with fastai & PyTorch.
 
 ## Overview
 ### Dataset
