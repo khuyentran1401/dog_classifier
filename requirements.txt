@@ -2,6 +2,7 @@
 gunicorn
 flask
 numpy
+streamlit
 # that torch version would work fine on MacOS
 # torch==1.1.0
 #
