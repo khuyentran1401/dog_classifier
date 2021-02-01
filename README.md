@@ -1,1 +1,24 @@
-# dog_classifier
+# Dog Classifier
+
+This is a simple app using [fastai](https://docs.fast.ai/) and streamlit. The app is deployed using Heroku. 
+
+## Overview
+### Dataset
+300 different dog images are obtained using [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api). There are 100 images of each type of dog. The non-relevant images are removed. 
+### Model
+The model was trained to recognize 3 types of dog: Winner, Chihuahua, and Basset Hound using fastai. You can find the details of the training in [train_dog_classifier.ipnb](./train_dog_classifier.ipynb) notebook. The model was saved to [dog.pkl](./dog.pkl).
+
+
+## How to use the app
+Click [here](https://dog-classifier-01.herokuapp.com/) to view and play with the app. 
+
+Click Browse files to upload a dog image. Note that since the app is trained on just 3 kinds of dogs: Winner, Chihuahua, and Basset, make sure to upload only images of these dogs. 
+![image](images/app_usage.gif)
+
+## Results
+I use my dog's photos and other photos I found from Facebook to test the performance of the model. Note that these images were not used to train the model. Here are some results I got:
+![image](images/chihuahua_result.png)
+![image](images/winner3_result.png)
+![image](images/basset_hound_result.png)
+![image](images/winner_result.png)
+
