@@ -2,8 +2,8 @@
 # fastbook.setup_book()
 
 # from fastbook import *
-from fastai.vision.widgets import *
-from fastai.vision.all import *
+from fastai.vision import *
+from fastai import *
 
 from pathlib import Path
 
