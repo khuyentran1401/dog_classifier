@@ -1,6 +1,4 @@
  
-gunicorn
-flask
 numpy
 streamlit
 # that torch version would work fine on MacOS
