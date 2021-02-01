@@ -17,6 +17,7 @@ Click Browse files to upload a dog image. Note that since the app is trained on 
 
 ## Results
 I use my dog's photos and other photos I found from Facebook to test the performance of the model. Note that these images were not used to train the model. The model can recognize dogs with high accuracy. Here are some results I got:
+
 ![image](images/chihuahua_result.png)
 ![image](images/winner3_result.png)
 ![image](images/basset_hound_result.png)
