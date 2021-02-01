@@ -1,8 +1,9 @@
  
 numpy
 streamlit
+torch==1.7.1
 # we have to use this version for Heroku
-https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
-torchvision==0.2.2
-fastai==1.0.52
+# https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
+torchvision==0.8.2
+fastai==2.2.5
 jupyter

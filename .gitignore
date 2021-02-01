@@ -3,3 +3,5 @@ src
 # *.pkl
 log
 tmp
+.vscode
+.ipynb_checkpoints
