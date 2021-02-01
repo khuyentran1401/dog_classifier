@@ -1,3 +1,5 @@
 venv
 src
 *.pkl
+log
+tmp

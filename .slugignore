@@ -1,3 +1,1 @@
-venv
-src
-*.pkl
+train_dog_classifier.ipynb
