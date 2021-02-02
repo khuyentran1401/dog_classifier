@@ -4,7 +4,7 @@ This is a simple app to classify dogs using [fastai](https://docs.fast.ai/) and 
 
 ## Overview
 ### Dataset
-300 different dog images are obtained using [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api). There are 100 images of each type of dog. The non-relevant images are removed. 
+450 different dog images are obtained using [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api). There are 150 images of each type of dog. The non-relevant images are removed. 
 ### Model
 The model was trained to recognize 3 types of dog: Winner, Chihuahua, and Basset Hound using fastai. You can find the details of the training in [train_dog_classifier.ipnb](./train_dog_classifier.ipynb) notebook. The model was saved to [dog.pkl](./dog.pkl).
 
