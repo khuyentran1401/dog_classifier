@@ -1,6 +1,6 @@
 # Dog Classifier
 
-This is a simple app to classify dogs using [fastai](https://docs.fast.ai/) and [streamlit](https://www.streamlit.io/). The app is deployed using Heroku. This project is inspired by Chapter 2 of the book Deep Learning for Coders with fastai & PyTorch.
+This is a simple app to classify dogs using [fastai](https://docs.fast.ai/) and [streamlit](https://www.streamlit.io/). The app is deployed using Streamlit Sharing. Click [here](https://share.streamlit.io/khuyentran1401/dog_classifier/main/dog_classifier.py) to view and play with the app.  This project is inspired by Chapter 2 of the book Deep Learning for Coders with fastai & PyTorch.
 
 ## Overview
 ### Dataset
@@ -10,7 +10,7 @@ The model was trained to recognize 3 types of dog: Winner, Chihuahua, and Basset
 
 
 ## How to use the app
-Click [here](https://dog-classifier-01.herokuapp.com/) to view and play with the app. 
+
 
 Click Browse files to upload a dog image. Note that since the app is trained on just 3 kinds of dogs: Winner, Chihuahua, and Basset, make sure to upload only images of these dogs. 
 ![image](images/app_usage.gif)
